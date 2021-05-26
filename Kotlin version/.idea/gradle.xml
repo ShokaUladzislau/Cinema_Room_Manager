@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task" />
+            <option value="$PROJECT_DIR$/Problems/Accordance" />
+            <option value="$PROJECT_DIR$/Problems/ArithmeticException" />
+            <option value="$PROJECT_DIR$/Problems/Cause an exception" />
+            <option value="$PROJECT_DIR$/Problems/Check the numbers" />
+            <option value="$PROJECT_DIR$/Problems/Complex handling" />
+            <option value="$PROJECT_DIR$/Problems/Converter to Double" />
+            <option value="$PROJECT_DIR$/Problems/Corners" />
+            <option value="$PROJECT_DIR$/Problems/Empty" />
+            <option value="$PROJECT_DIR$/Problems/Exception message" />
+            <option value="$PROJECT_DIR$/Problems/Finalizing" />
+            <option value="$PROJECT_DIR$/Problems/Fix compile-time errors" />
+            <option value="$PROJECT_DIR$/Problems/Fix the program" />
+            <option value="$PROJECT_DIR$/Problems/Handle arithmetic exception" />
+            <option value="$PROJECT_DIR$/Problems/Handle number format exception" />
+            <option value="$PROJECT_DIR$/Problems/Handle string exception" />
+            <option value="$PROJECT_DIR$/Problems/Help the Lord Commander" />
+            <option value="$PROJECT_DIR$/Problems/Initializing an array of characters" />
+            <option value="$PROJECT_DIR$/Problems/Initializing an array of integers" />
+            <option value="$PROJECT_DIR$/Problems/Integer division" />
+            <option value="$PROJECT_DIR$/Problems/Just checking" />
+            <option value="$PROJECT_DIR$/Problems/Kings of Sweden" />
+            <option value="$PROJECT_DIR$/Problems/Kotlin arrays" />
+            <option value="$PROJECT_DIR$/Problems/NumberFormat" />
+            <option value="$PROJECT_DIR$/Problems/Referential equality" />
+            <option value="$PROJECT_DIR$/Problems/Right Rotation" />
+            <option value="$PROJECT_DIR$/Problems/RuntimeException" />
+            <option value="$PROJECT_DIR$/Problems/Swap elements" />
+            <option value="$PROJECT_DIR$/Problems/The Answer is..." />
+            <option value="$PROJECT_DIR$/Problems/Triples" />
+            <option value="$PROJECT_DIR$/Problems/True captain" />
+            <option value="$PROJECT_DIR$/Problems/What's wrong?" />
+            <option value="$PROJECT_DIR$/Problems/Yet another array" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
